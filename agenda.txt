@@ -3,4 +3,6 @@ we are going to work on github
 2 git merge
 3 git fetch
 4 git pull 
-5 branch strategy
+5 branching
+6 other git commands
+
